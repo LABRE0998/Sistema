@@ -1,0 +1,12 @@
+C:\Users\pollo\source\repos\SisMadereria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pollo\source\repos\SisMadereria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pollo\source\repos\SisMadereria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pollo\source\repos\SisMadereria\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pollo\source\repos\SisMadereria\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\pollo\source\repos\SisMadereria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pollo\Pictures\BD\SisMadereria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pollo\Pictures\BD\SisMadereria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pollo\Pictures\BD\SisMadereria\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\pollo\Pictures\BD\SisMadereria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pollo\Pictures\BD\SisMadereria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pollo\Pictures\BD\SisMadereria\CapaDatos\obj\Debug\CapaDatos.pdb
